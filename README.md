@@ -3,7 +3,7 @@
 Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
 Increase the web presence of your brand with this configurable theme.
 
-![Hydra template screenshot](asserts/images/_screenshot.png)
+![Hydra template screenshot](assets/images/_screenshot.png)
 
 Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
